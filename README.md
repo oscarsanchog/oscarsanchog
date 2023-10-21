@@ -2,7 +2,7 @@
 #### I am Full Stack developer
 ![I am Full Stack developer](https://media.licdn.com/dms/image/D4E16AQGA_azPsyXH_Q/profile-displaybackgroundimage-shrink_350_1400/0/1695357229636?e=1703116800&v=beta&t=fKHzbWhqTWRW-Ng07iddvkpdhO_mHIUxbwigmgStbXw)
 
-✨ I'm Oscar a Full Stack Developer with a solid background in education and technology. Technology has always captivated me, and it wasn't until I entered university to study a Bachelor's degree in Music that my professional path shifted towards digital technologies. I was responsible for various technology-related tasks, which eventually led to my decision to join Henry Bootcamp to formalize my skills and expand my job opportunities.
+✨ I'm Oscar, a Full Stack Developer with a solid background in education and technology. Technology has always captivated me, and it wasn't until I entered university to study a Bachelor's degree in Music that my professional path shifted towards digital technologies. I was responsible for various technology-related tasks, which eventually led to my decision to join Henry Bootcamp to formalize my skills and expand my job opportunities.
 
 👨‍🎓 My previous experience has given me the opportunity to collaborate in academic and university environments, where I have been involved in technology modernization projects for the prestigious higher education institution, Pontificia Universidad Católica de Valparaíso.
 
@@ -18,7 +18,4 @@ Skills: Javascript | React | Node | Express | PostgreSQL | Sequelize | HTML | CS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oscarsanchog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/oscarsanchog//)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oscarsanchog)  
-
 ![GitHub metrics](https://metrics.lecoq.io/oscarsanchog)  
-
